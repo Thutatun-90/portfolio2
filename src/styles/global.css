@@ -1,11 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&family=Inter:wght@300;400;500;600&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap');
 @import 'tailwindcss';
 @plugin "@tailwindcss/typography";
 
 @config "../../tailwind.config";
 
 @layer base {
+	#logo {
+	font-family: 'Playfair Display', serif;
+	font-weight: 600;
+	letter-spacing: -0.5px;
+}
 	:root {
 		--background: 0 0% 100%;
 		--foreground: 240 10% 3.9%;
@@ -41,10 +45,6 @@
 	h5,
 	h6 {
 		font-family: 'Playfair Display', serif;
-	}
-
-	#logo {
-		font-family: 'Dancing Script', cursive;
 	}
 }
 

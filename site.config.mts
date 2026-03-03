@@ -8,19 +8,19 @@ export interface SocialLink {
 }
 
 export default {
-	title: 'SR',
+	title: 'Kaung Kin',
 	favicon: 'favicon.ico',
-	owner: 'Sara Richard',
+	owner: 'Kaung Kin',
 	profileImage: 'profile.webp',
 	socialLinks: [
 		{
 			name: 'GitHub',
-			url: 'https://github.com/rockem/astro-photography-portfolio',
+			url: 'https://github.com/Thutatun-90',
 			icon: Github,
 		} as SocialLink,
 		{
 			name: 'Instagram',
-			url: 'https://www.instagram.com',
+			url: 'https://www.instagram.com/artist_kaung_kin/',
 			icon: Instagram,
 		} as SocialLink,
 	],
