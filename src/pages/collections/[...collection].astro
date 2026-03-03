@@ -22,31 +22,43 @@ export const getStaticPaths = async () => {
 ---
 
 <MainLayout>
-	<section class="py-16 pt-24">
+	<section class="py-20 pt-16">
 		<div class="container-custom">
-			<div class="mb-16 text-center">
-				<h1 class="text-4xl md:text-5xl font-bold mb-4">Selected Works</h1>
-				<p class="text-gray-600 max-w-xl mx-auto">A collection of works across different mediums and studies.</p>
+			<div class="mb-12 text-center">
+				<h1 class="text-4xl md:text-5xl font-semibold tracking-tight mb-4">
+  Selected Works
+</h1>
+
+<p class="text-muted-foreground text-base max-w-xl mx-auto">
+  A collection of works across different mediums and studies.
+</p>
 			</div>
 
 			<div class="flex justify-center mb-10">
-				<div class="flex flex-wrap gap-2 justify-center">
-					{
-						collections.map((collectionBtn) => (
-							<a href={`${base}collections/${collectionBtn.id ? collectionBtn.id : ''}`}>
-								<div
-									class={`px-4 py-2 border ${
-										collectionBtn.id === collection
-											? 'border-black bg-black text-white'
-											: 'border-gray-200 text-gray-700 hover:border-gray-300'
-									} transition-all`}
-								>
-									{collectionBtn.name}
-								</div>
-							</a>
-						))
-					}
-				</div>
+				<div class="flex flex-wrap gap-5 justify-center">
+  {
+    collections.map((collectionBtn) => {
+      const isActive = collectionBtn.id === collection;
+
+      return (
+        <a
+          href={`${base}collections/${collectionBtn.id ? collectionBtn.id : ''}`}
+          class={`relative text-sm uppercase tracking-wide transition-all duration-300 ${
+            isActive
+              ? 'text-black'
+              : 'text-gray-500 hover:text-black'
+          }`}
+        >
+          {collectionBtn.name}
+
+          {isActive && (
+            <span class="absolute left-0 -bottom-1 w-full h-[1px] bg-black/70"></span>
+          )}
+        </a>
+      );
+    })
+  }
+</div>
 			</div>
 
 			<PhotoGrid images={images} />

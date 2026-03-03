@@ -92,11 +92,12 @@ function createLayoutFor(
 	}));
 
 	const layout = justifiedLayout(imageSizes, {
-		containerWidth: container.clientWidth || window.innerWidth,
-		targetRowHeight: 300,
-		boxSpacing: 10,
-		containerPadding: 0,
-	});
+  containerWidth: container.clientWidth,
+  targetRowHeight: 230,
+  boxSpacing: 18,
+  containerPadding: 0,
+  widowLayoutStyle: 'justify',
+});
 	return layout;
 }
 
@@ -119,9 +120,24 @@ async function waitForImagesToLoad(container: HTMLElement) {
 	return imageElements;
 }
 
-function applyImagesStyleBasedOnLayout(imageLinks: HTMLElement[], layout: JustifiedLayoutResult) {
+function applyImagesStyleBasedOnLayout(
+	imageLinks: HTMLElement[],
+	layout: JustifiedLayoutResult
+) {
+	// 1️⃣ Clear old styles first
+	imageLinks.forEach((el) => {
+		el.style.position = '';
+		el.style.left = '';
+		el.style.top = '';
+		el.style.width = '';
+		el.style.height = '';
+		el.style.display = '';
+	});
+
+	// 2️⃣ Apply new layout styles
 	imageLinks.forEach((el, i) => {
 		if (!layout.boxes[i]) return;
+
 		const { left, top, width, height } = layout.boxes[i];
 
 		el.style.position = 'absolute';

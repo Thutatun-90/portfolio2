@@ -14,4 +14,67 @@ collections:
   - id: other-works
     name: Other Works
 
-images: []
+images:
+  - path: ink-sketch/L1002174.jpg
+    meta:
+      title: L1002174
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/nature-1.jpg
+    meta:
+      title: Nature 1
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/nature-2.jpg
+    meta:
+      title: Nature 2
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/nature-3.jpg
+    meta:
+      title: Nature 3
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/nature-5.jpg
+    meta:
+      title: Nature 5
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/nature-7.jpg
+    meta:
+      title: Nature 7
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/nature-8.jpg
+    meta:
+      title: Nature 8
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/nature-10.jpg
+    meta:
+      title: Nature 10
+      description: ""
+      collections:
+        - ink-sketch
+    exif: {}
