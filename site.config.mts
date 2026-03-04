@@ -11,7 +11,7 @@ export default {
 	title: 'Kaung Kin',
 	favicon: 'favicon.ico',
 	owner: 'Kaung Kin',
-	profileImage: 'profile.webp',
+	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
 			name: 'GitHub',
