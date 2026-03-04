@@ -15,6 +15,403 @@ collections:
     name: Other Works
 
 images:
+  - path: watercolor/wc001.jpg
+    meta:
+      title: Watercolor Study 001
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc002.jpg
+    meta:
+      title: Watercolor Study 002
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+  
+  - path: watercolor/wc003.jpg
+    meta:
+      title: Watercolor Study 004
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc004.jpg
+    meta:
+      title: Watercolor Study 005
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc005.jpg
+    meta:
+      title: Watercolor Study 005
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {} 
+
+  - path: watercolor/wc006.jpg
+    meta:
+      title: Watercolor Study 006
+      description: Original watercolor artwork.
+      collections:
+        - featured
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc007.jpg
+    meta:
+      title: Watercolor Study 007
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc008.jpg
+    meta:
+      title: Watercolor Study 008
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc009.jpg
+    meta:
+      title: Watercolor Study 009
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc010.jpg
+    meta:
+      title: Watercolor Study 010
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc011.jpg
+    meta:
+      title: Watercolor Study 011
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc012.jpg
+    meta:
+      title: Watercolor Study 012
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc013.jpg
+    meta:
+      title: Watercolor Study 013
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc014.jpg
+    meta:
+      title: Watercolor Study 014
+      description: Original watercolor artwork.
+      collections:
+        - featured
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc015.jpg
+    meta:
+      title: Watercolor Study 015
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+        - featured
+    exif: {}
+
+  - path: watercolor/wc016.jpg
+    meta:
+      title: Watercolor Study 016
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc017.jpg
+    meta:
+      title: Watercolor Study 017
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc018.jpg
+    meta:
+      title: Watercolor Study 018
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc019.jpg
+    meta:
+      title: Watercolor Study 019
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc020.jpg
+    meta:
+      title: Watercolor Study 020
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc021.jpg
+    meta:
+      title: Watercolor Study 021
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc022.jpg
+    meta:
+      title: Watercolor Study 022
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc023.jpg
+    meta:
+      title: Watercolor Study 023
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc024.jpg
+    meta:
+      title: Watercolor Study 024
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc025.jpg
+    meta:
+      title: Watercolor Study 025
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc026.jpg
+    meta:
+      title: Watercolor Study 026
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc027.jpg
+    meta:
+      title: Watercolor Study 027
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc028.jpg
+    meta:
+      title: Watercolor Study 028
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc029.jpg
+    meta:
+      title: Watercolor Study 029
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc030.jpg
+    meta:
+      title: Watercolor Study 030
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc031.jpg
+    meta:
+      title: Watercolor Study 031
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc032.jpg
+    meta:
+      title: Watercolor Study 032
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc033.jpg
+    meta:
+      title: Watercolor Study 033
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc034.jpg
+    meta:
+      title: Watercolor Study 034
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc035.jpg
+    meta:
+      title: Watercolor Study 007
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc036.jpg
+    meta:
+      title: Watercolor Study 036
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc037.jpg
+    meta:
+      title: Watercolor Study 037
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc038.jpg
+    meta:
+      title: Watercolor Study 038
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc039.jpg
+    meta:
+      title: Watercolor Study 039
+      description: Original watercolor artwork.
+      collections:
+        - featured
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc040.jpg
+    meta:
+      title: Watercolor Study 040
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc041.jpg
+    meta:
+      title: Watercolor Study 041
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc042.jpg
+    meta:
+      title: Watercolor Study 042
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc043.jpg
+    meta:
+      title: Watercolor Study 043
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc044.jpg
+    meta:
+      title: Watercolor Study 044
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc045.jpg
+    meta:
+      title: Watercolor Study 045
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc046.jpg
+    meta:
+      title: Watercolor Study 046
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc047.jpg
+    meta:
+      title: Watercolor Study 047
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc048.jpg
+    meta:
+      title: Watercolor Study 048
+      description: Original watercolor artwork.
+      collections:
+        - watercolor
+    exif: {}
+
+  - path: watercolor/wc049.jpg
+    meta:
+      title: Watercolor Study 049
+      description: Original watercolor artwork.
+      collections:
+        - featured
+        - watercolor
+    exif: {}
+
   - path: ink-sketch/L1002174.jpg
     meta:
       title: L1002174
