@@ -7,12 +7,12 @@ collections:
     name: Watercolor
   - id: storyboard
     name: Storyboard
+  - id: digital-art
+    name: Digital Art
   - id: illustration
     name: Illustration
   - id: caricature
     name: Caricature
-  - id: other-works
-    name: Other Works
 
 images:
   - path: watercolor/wc001.jpg
@@ -101,6 +101,7 @@ images:
       title: Watercolor Study 011
       description: Original watercolor artwork.
       collections:
+        - featured
         - watercolor
     exif: {}
 
@@ -412,66 +413,528 @@ images:
         - watercolor
     exif: {}
 
-  - path: ink-sketch/L1002174.jpg
+  - path: digital-art/dia001.jpg
     meta:
-      title: L1002174
-      description: ""
+      title: vintage Car 1
+      description: Original Digital artwork - Vintage Car
       collections:
-        - ink-sketch
+        - digital-art
     exif: {}
 
-  - path: ink-sketch/nature-1.jpg
+  - path: digital-art/dia002.jpg
     meta:
-      title: Nature 1
-      description: ""
+      title: Tote Tote
+      description: Original Digital artwork - Tote Tote
       collections:
-        - ink-sketch
+        - digital-art
     exif: {}
 
-  - path: ink-sketch/nature-2.jpg
+  - path: digital-art/dia003.jpg
     meta:
-      title: Nature 2
-      description: ""
+      title: စူဠသုဘဒ္ဒါ
+      description: Original Digital artwork - စူဠသုဘဒ္ဒါ
       collections:
-        - ink-sketch
+        - digital-art
     exif: {}
 
-  - path: ink-sketch/nature-3.jpg
+  - path: digital-art/dia004.jpg
     meta:
-      title: Nature 3
-      description: ""
+      title: Grandma
+      description: Original Digital artwork - Grandma
       collections:
-        - ink-sketch
+        - digital-art
     exif: {}
 
-  - path: ink-sketch/nature-5.jpg
+  - path: digital-art/dia005.jpg
     meta:
-      title: Nature 5
-      description: ""
+      title: BaganDancer
+      description: Original Digital artwork - BaganDancer
       collections:
-        - ink-sketch
+        - digital-art
     exif: {}
 
-  - path: ink-sketch/nature-7.jpg
+  - path: digital-art/dia006.jpg
     meta:
-      title: Nature 7
-      description: ""
+      title: Ga Lone
+      description: Original Digital artwork - Ga Lone
       collections:
-        - ink-sketch
+        - digital-art
     exif: {}
 
-  - path: ink-sketch/nature-8.jpg
+  - path: digital-art/dia007.jpg
     meta:
-      title: Nature 8
-      description: ""
+      title: Ko Gyi Kyaw
+      description: Original Digital artwork - Ko Gyi Kyaw
       collections:
-        - ink-sketch
+        - digital-art
     exif: {}
 
-  - path: ink-sketch/nature-10.jpg
+  - path: digital-art/dia008.jpg
     meta:
-      title: Nature 10
+      title: ZawGyi
+      description: Original Digital artwork - ZawGyi
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia009.jpg
+    meta:
+      title: Warrior
+      description: Original Digital artwork - Warrior
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia010.jpg
+    meta:
+      title: Digital Art Study
+      description: Original Digital artwork - Digital Art Study
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia011.jpg
+    meta:
+      title: Digital Art Study 001
+      description: Original Digital artwork - Digital Art Study 001
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia012.jpg
+    meta:
+      title: Digital Art Study 002
+      description: Original Digital artwork - Digital Art Study 002
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia013.jpg
+    meta:
+      title: Lion
+      description: Original Digital artwork - Lion
+      collections:
+        - featured
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia014.jpg
+    meta:
+      title: Fish
+      description: Original Digital artwork - Fish
+      collections:
+        - featured
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia015.jpg
+    meta:
+      title: Dragon
+      description: Original Digital artwork - Dragon
+      collections:
+        - featured
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia016.jpg
+    meta:
+      title: BLoo
+      description: Original Digital artwork - BLoo
+      collections:
+        - featured
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia017.jpg
+    meta:
+      title: HappiKid
+      description: Original Digital artwork - HappiKid
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia018.jpg
+    meta:
+      title: EiGuu Lay
+      description: Original Digital artwork - EiGuu Lay
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: digital-art/dia019.jpg
+    meta:
+      title: True Story
+      description: Original Digital artwork - True Story
+      collections:
+        - digital-art
+    exif: {}
+
+  - path: illustration/ils01.jpg
+    meta:
+      title: Original Illustration
       description: ""
       collections:
-        - ink-sketch
+        - illustration
     exif: {}
+
+  - path: illustration/ils02.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils03.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils04.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils05.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils06.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils07.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils08.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils09.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils10.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils11.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils12.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils13.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils14.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils15.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils16.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils17.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils18.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils19.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils20.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils21.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils22.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils23.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils24.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils25.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils26.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils27.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils28.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils29.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils30.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils31.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils32.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils33.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils34.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils35.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils36.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils37.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils38.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils39.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils40.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils41.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils42.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils43.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: acrylic/acry01.jpg
+    meta:
+      title: Original Acrylic Artwork
+      description: ""
+      collections:
+        - acrylic
+        - featured
+    exif: {}
+
+  - path: acrylic/acry02.jpg
+    meta:
+      title: Original Acrylic Artwork
+      description: ""
+      collections:
+        - acrylic
+    exif: {}
+
+  - path: acrylic/acry03.jpg
+    meta:
+      title: Original Acrylic Artwork
+      description: ""
+      collections:
+        - acrylic
+    exif: {}
+      
