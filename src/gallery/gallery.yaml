@@ -413,6 +413,23 @@ images:
         - watercolor
     exif: {}
 
+  - path: watercolor/wc050.jpg
+    meta:
+      title: Original Watercolor Artwork
+      description: ""
+      collections:
+        - watercolor
+        - featured
+    exif: {}
+
+  - path: watercolor/wc051.jpg
+    meta:
+      title: Original Watercolor Artwork
+      description: ""
+      collections:
+        - watercolor
+    exif: {}      
+
   - path: digital-art/dia001.jpg
     meta:
       title: vintage Car 1
@@ -568,6 +585,14 @@ images:
       collections:
         - digital-art
     exif: {}
+
+  - path: digital-art/dia020.jpg
+    meta:
+      title: Logo
+      description: Original Logo
+      collections:
+        - digital-art
+    exif: {}  
 
   - path: illustration/ils01.jpg
     meta:
@@ -913,6 +938,54 @@ images:
         - illustration
     exif: {}
 
+  - path: illustration/ils044.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils045.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils046.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils047.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils048.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}
+
+  - path: illustration/ils049.jpg
+    meta:
+      title: Original Illustration
+      description: ""
+      collections:
+        - illustration
+    exif: {}  
+
   - path: acrylic/acry01.jpg
     meta:
       title: Original Acrylic Artwork
@@ -937,4 +1010,492 @@ images:
       collections:
         - acrylic
     exif: {}
-      
+
+  - path: acrylic/acry04.jpg
+    meta:
+      title: Original Acrylic Artwork
+      description: ""
+      collections:
+        - acrylic
+    exif: {}
+
+  - path: acrylic/acry05.jpg
+    meta:
+      title: Original Acrylic Artwork
+      description: ""
+      collections:
+        - acrylic
+    exif: {}    
+
+  - path: caricature/cc001.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}  
+
+  - path: caricature/cc003.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc002.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc004.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc005.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc006.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc007.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc008.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc009.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc010.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc011.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc012.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc013.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc014.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc015.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc016.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc017.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc018.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc019.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc020.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc021.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc022.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc023.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc024.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc025.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc026.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc027.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc028.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc029.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc030.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc031.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc032.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc033.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc034.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc035.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc036.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc037.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc038.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc039.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc040.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}                                                                               
+
+  - path: caricature/cc041.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc042.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc043.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc044.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc045.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc046.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc047.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - featured
+        - caricature
+    exif: {}  
+
+  - path: caricature/cc048.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc049.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}    
+
+  - path: caricature/cc050.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: caricature/cc051.jpg
+    meta:
+      title: Caricature Study
+      description: Original caricature artwork.
+      collections:
+        - caricature
+    exif: {}
+
+  - path: ink-sketch/iks001.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}  
+
+  - path: ink-sketch/iks002.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}  
+
+  - path: ink-sketch/iks003.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}  
+
+  - path: ink-sketch/iks004.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}  
+
+  - path: ink-sketch/iks005.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}  
+
+  - path: ink-sketch/iks006.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}  
+
+  - path: ink-sketch/iks007.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}  
+
+  - path: ink-sketch/iks008.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}                
