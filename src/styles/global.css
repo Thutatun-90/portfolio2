@@ -29,7 +29,6 @@
     }
 	.mm-name {
       font-family: "Noto Serif Myanmar", serif;
-	  font-style: ExtraBold 800;
 	  line-height: 0.02em;
     }
 	
@@ -130,4 +129,26 @@ h6 {
 	.nav-link:hover::after {
 		@apply w-full;
 	}
+	.prose {
+    max-width: 720px;
+    margin: 0 auto;
+    line-height: 1.8;
+    font-size: 1.05rem;
+  }
+
+  .prose h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 0.8rem;
+  }
+
+  .prose p {
+    margin-bottom: 1.2rem;
+  }
+
+  .prose ul {
+    margin-left: 1.2rem;
+  }
+  .prose {
+  max-width: 680px;
+}
 }

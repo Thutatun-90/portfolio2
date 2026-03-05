@@ -1,5 +1,5 @@
 import type { AstroInstance } from 'astro';
-import { Github, Instagram } from 'lucide-astro';
+import { Github, Instagram, Facebook } from 'lucide-astro';
 
 export interface SocialLink {
 	name: string;
@@ -14,14 +14,14 @@ export default {
 	profileImage: 'profile.jpg',
 	socialLinks: [
 		{
-			name: 'GitHub',
-			url: 'https://github.com/Thutatun-90',
-			icon: Github,
-		} as SocialLink,
-		{
 			name: 'Instagram',
 			url: 'https://www.instagram.com/artist_kaung_kin/',
 			icon: Instagram,
+		} as SocialLink,
+		{
+			name: 'Facebook',
+			url: 'https://www.facebook.com/cartoon.kaungkin',
+			icon: Facebook,
 		} as SocialLink,
 	],
 };
