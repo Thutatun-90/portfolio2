@@ -1,0 +1,30 @@
+---
+import MainLayout from '../layouts/MainLayout.astro';
+import { Content as ContactPage } from '../content/contact.md';
+---
+
+<MainLayout>
+
+<section class="mt-32 mb-24">
+  <div class="max-w-2xl mx-auto px-6 text-center">
+
+    <h1 class="text-4xl md:text-5xl font-semibold tracking-tight mb-10">
+      Contact
+    </h1>
+
+    <p class="text-muted-foreground mb-12">
+      For commissions, collaborations, or project inquiries.
+    </p>
+
+    <div class="prose prose-lg mx-auto 
+prose-a:text-muted-foreground 
+prose-a:no-underline 
+hover:prose-a:underline 
+hover:prose-a:text-foreground">
+      <ContactPage />
+    </div>
+
+  </div>
+</section>
+
+</MainLayout>
