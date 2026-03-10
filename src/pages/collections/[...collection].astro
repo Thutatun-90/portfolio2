@@ -43,11 +43,11 @@ export const getStaticPaths = async () => {
       return (
         <a
           href={`${base}collections/${collectionBtn.id ? collectionBtn.id : ''}`}
-          class={`relative text-sm uppercase tracking-[0.15em] transition-all duration-300 ${
-            isActive
-              ? 'text-foreground'
-							: 'text-muted-foreground hover:text-foreground'
-          }`}
+         class={`relative text-sm uppercase tracking-[0.18em] transition-all duration-300 ${
+				  isActive
+				    ? 'text-foreground'
+				    : 'text-muted-foreground hover:text-foreground'
+				}`}
         >
           {collectionBtn.name}
 
