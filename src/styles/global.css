@@ -224,9 +224,9 @@ h6 {
 
 .skeleton-box{
   width:100%;
-  height:220px;
+  height:230px;
   border-radius:6px;
-  background:#1a1a1a;
+  background:#151515;
   position:relative;
   overflow:hidden;
 }
