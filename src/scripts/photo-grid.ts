@@ -55,6 +55,8 @@ export async function setupGallery() {
 		return;
 	}
 
+	const loader = document.getElementById('gallery-loader');
+
 	const imageLinks = Array.from(container.querySelectorAll('.photo-item')) as HTMLElement[];
 
 	if (imageLinks.length === 0) {
@@ -71,6 +73,10 @@ export async function setupGallery() {
 
 	applyImagesStyleBasedOnLayout(imageLinks, layout);
 	applyContainerStyleBasedOnLayout(container, layout);
+    
+	if (loader) loader.style.display = 'none';
+    
+	container.classList.remove('hidden');
 
 	// Initialize GLightbox
 	GLightbox({
