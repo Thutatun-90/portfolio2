@@ -1,4 +1,5 @@
 export default {
+	darkMode: "class",
 	prefix: '',
 	theme: {
 		container: {

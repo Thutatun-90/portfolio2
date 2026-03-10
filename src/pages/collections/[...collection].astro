@@ -35,7 +35,7 @@ export const getStaticPaths = async () => {
 			</div>
 
 			<div class="flex justify-center mb-10">
-				<div class="flex flex-wrap gap-5 justify-center">
+				<div class="flex flex-wrap gap-6 md:gap-8 justify-center">
   {
     collections.map((collectionBtn) => {
       const isActive = collectionBtn.id === collection;
@@ -43,16 +43,16 @@ export const getStaticPaths = async () => {
       return (
         <a
           href={`${base}collections/${collectionBtn.id ? collectionBtn.id : ''}`}
-          class={`relative text-sm uppercase tracking-wide transition-all duration-300 ${
+          class={`relative text-sm uppercase tracking-[0.15em] transition-all duration-300 ${
             isActive
-              ? 'text-black'
-              : 'text-gray-500 hover:text-black'
+              ? 'text-foreground'
+							: 'text-muted-foreground hover:text-foreground'
           }`}
         >
           {collectionBtn.name}
 
           {isActive && (
-            <span class="absolute left-0 -bottom-1 w-full h-[1px] bg-black/70"></span>
+            <span class="absolute left-0 -bottom-1 w-full h-[1px] bg-foreground/70"></span>
           )}
         </a>
       );

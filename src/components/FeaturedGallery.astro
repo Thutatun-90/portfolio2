@@ -6,9 +6,14 @@ const images = await getImages({ collection: featuredCollectionId });
 ---
 
 <div class="max-w-2xl mx-auto text-center mb-2">
-	<h2 class="text-3xl md:text-4xl font-bold mb-4">Featured Works</h2>
-	<p class="text-gray-600">Selected pieces across different mediums</p>
+  <h2 class="text-3xl md:text-4xl font-semibold text-foreground mb-4">
+    Featured Works
+  </h2>
+  <p class="text-muted-foreground tracking-wide max-w-xl mx-auto">
+    Selected pieces across different mediums
+  </p>
 </div>
+
 <div class="p-4">
-	<PhotoGrid images={images} />
+  <PhotoGrid images={images} />
 </div>

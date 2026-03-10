@@ -33,6 +33,7 @@
     }
 	
 	:root {
+		
 	/* Base Surface */
 	--background: 40 20% 97%;
 	--foreground: 240 6% 12%;
@@ -71,6 +72,35 @@
 
 	--radius: 0.5rem;
 }
+.dark {
+  /* Dark theme */
+
+  --background: 220 15% 8%;
+  --foreground: 40 20% 96%;
+
+  --card: 220 15% 10%;
+  --card-foreground: 40 20% 96%;
+
+  --popover: 220 15% 10%;
+  --popover-foreground: 40 20% 96%;
+
+  --primary: 40 20% 96%;
+  --primary-foreground: 220 15% 8%;
+
+  --secondary: 220 12% 16%;
+  --secondary-foreground: 40 20% 96%;
+
+  --muted: 220 12% 16%;
+  --muted-foreground: 220 10% 75%;
+
+  --accent: 220 12% 18%;
+  --accent-foreground: 40 20% 96%;
+
+  --border: 220 12% 22%;
+  --input: 220 12% 22%;
+  --ring: 220 10% 70%;
+}
+
 	body {
 		@apply bg-background text-foreground font-sans;
 		font-family: 'Inter', sans-serif;

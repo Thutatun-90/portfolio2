@@ -21,6 +21,7 @@ images:
       description: Original watercolor artwork.
       collections:
         - watercolor
+        - featured
     exif: {}
 
   - path: watercolor/wc002.jpg
@@ -29,6 +30,7 @@ images:
       description: Original watercolor artwork.
       collections:
         - watercolor
+        - featured
     exif: {}
   
   - path: watercolor/wc003.jpg
@@ -101,7 +103,6 @@ images:
       title: Watercolor Study 011
       description: Original watercolor artwork.
       collections:
-        - featured
         - watercolor
     exif: {}
 
@@ -328,7 +329,6 @@ images:
       title: Watercolor Study 039
       description: Original watercolor artwork.
       collections:
-        - featured
         - watercolor
     exif: {}
 
@@ -409,7 +409,6 @@ images:
       title: Watercolor Study 049
       description: Original watercolor artwork.
       collections:
-        - featured
         - watercolor
     exif: {}
 
@@ -1017,15 +1016,7 @@ images:
       description: ""
       collections:
         - acrylic
-    exif: {}
-
-  - path: acrylic/acry05.jpg
-    meta:
-      title: Original Acrylic Artwork
-      description: ""
-      collections:
-        - acrylic
-    exif: {}    
+    exif: {}   
 
   - path: caricature/cc001.jpg
     meta:
@@ -1499,6 +1490,70 @@ images:
       collections:
         - ink-sketch
     exif: {}
+
+  - path: ink-sketch/iks009.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/iks010.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/iks011.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/iks012.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/iks013.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/iks014.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/iks015.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}
+
+  - path: ink-sketch/iks016.jpg
+    meta:
+      title: Ink Sketch
+      description: Original Ink-sketch artwork.
+      collections:
+        - ink-sketch
+    exif: {}                
 
   - path: storyboard/sb01.jpg
     meta:
