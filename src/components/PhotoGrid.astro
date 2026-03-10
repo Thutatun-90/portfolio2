@@ -1,5 +1,5 @@
 ---
-import 'glightbox/dist/css/glightbox.css?inline';
+import 'glightbox/dist/css/glightbox.css';
 import '../styles/glightbox-custom.css';
 import { Image } from 'astro:assets';
 import type { Image as ImageType } from '../data/galleryData';
@@ -27,7 +27,6 @@ const { images } = Astro.props;
 					  format="webp"
 					  width={image.src.width}
 					  height={image.src.height}
-					  sizes="(max-width: 768px) 100vw, 33vw"
 					  loading={index < 0 ? "eager" : "lazy"}
 					  decoding="async"
 					  class="w-full h-full object-cover rounded-sm shadow-sm transition-all duration-500 group-hover:scale-[1.05] group-hover:shadow-[0_12px_35px_rgba(0,0,0,0.45)]"
