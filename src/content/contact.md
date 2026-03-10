@@ -6,13 +6,9 @@ title: Contact
 
 [artistkaungkin@gmail.com](mailto:artistkaungkin@gmail.com)
 
----
-
 **Instagram**
 
 [instagram.com/artist_kaung_kin](https://www.instagram.com/artist_kaung_kin/)
-
----
 
 **Facebook**
 
