@@ -67,6 +67,12 @@ export async function setupGallery() {
 	// Wait for all images to load
 	const imageElements = await waitForImagesToLoad(container);
 
+	// hide skeleton as soon as first images are ready
+	if (loader) loader.style.opacity = '0';
+	setTimeout(() => {
+	if (loader) loader.style.display = 'none';
+	}, 300);
+
 	// Get actual image dimensions after loading
 	const layout = createLayoutFor(imageElements, container);
 	console.log('Generated layout:', layout);
